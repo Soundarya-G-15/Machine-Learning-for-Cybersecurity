@@ -213,7 +213,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 12.		Develop a model that uses context (e.g., timestamp, source IP, and event type) to detect malicious events within wireless sensor networks.
     
 ## Cyber Security Excellence
-
+Contributed by Soundarya G 
 
 
 
